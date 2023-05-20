@@ -1,0 +1,29 @@
+kunal,1,Available,1300.0
+kunal,2,Available,1300.0
+kunal,3,Available,1300.0
+kunal,4,Available,1300.0
+kunal,5,Available,1300.0
+kunal,6,Available,650.0
+kunal,7,Available,650.0
+kunal,8,Available,812.5
+kunal,9,Available,650.0
+kunal,10,Available,650.0
+kunal,11,Available,650.0
+kunal,12,Available,650.0
+kunal,13,Available,812.5
+kunal,14,Available,650.0
+kunal,15,Available,650.0
+kunal,16,Available,650.0
+kunal,17,Available,650.0
+kunal,18,Available,812.5
+kunal,19,Available,650.0
+kunal,20,Available,650.0
+kunal,21,Available,487.5
+kunal,22,Available,487.5
+kunal,23,Not Available,487.5
+kunal,24,Available,487.5
+kunal,25,Available,487.5
+abdul,1,Available,140.0
+abdul,2,Not Available,140.0
+abdul,3,Available,52.5
+abdul,4,Available,52.5

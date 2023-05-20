@@ -1,0 +1,32 @@
+gurlal,1,Available,180.0
+gurlal,2,Available,180.0
+gurlal,3,Available,180.0
+gurlal,4,Available,180.0
+gurlal,5,Available,90.0
+gurlal,6,Available,90.0
+gurlal,7,Available,90.0
+gurlal,8,Available,90.0
+gurlal,9,Available,90.0
+gurlal,10,Available,90.0
+gurlal,11,Available,90.0
+gurlal,12,Available,90.0
+gurlal,13,Available,67.5
+gurlal,14,Available,67.5
+gurlal,15,Available,67.5
+gurlal,16,Available,67.5
+kunal,1,Available,90.0
+kunal,2,Available,90.0
+kunal,3,Available,90.0
+kunal,4,Available,90.0
+kunal,5,Available,45.0
+kunal,6,Available,45.0
+kunal,7,Available,45.0
+kunal,8,Available,45.0
+kunal,9,Available,45.0
+kunal,10,Available,45.0
+kunal,11,Available,45.0
+kunal,12,Not Available,45.0
+kunal,13,Not Available,33.75
+kunal,14,Not Available,33.75
+kunal,15,Available,33.75
+kunal,16,Available,33.75

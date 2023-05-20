@@ -1,0 +1,7 @@
+cinema,asif,sam,3,Not Available,63.75,may,5,15
+restaurant,kunal,john,14,Not Available,33.75,march,3,13
+airplane,abdul,john,2,Not Available,140.0,march,3,18
+airplane,kunal,emily,23,Not Available,487.5,july,7,5
+conferance room,asif,emily,14,Not Available,51.0,september,10,7
+conferance room,abdul,james,9,Not Available,41.25,january,10,7
+cinema,gurlal,james,7,Not Available,57.75,august,19,19

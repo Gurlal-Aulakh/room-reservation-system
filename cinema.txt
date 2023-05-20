@@ -1,0 +1,13 @@
+gurlal,1,Available,154.0
+gurlal,2,Available,154.0
+gurlal,3,Available,154.0
+gurlal,4,Available,77.0
+gurlal,5,Available,96.25
+gurlal,6,Available,77.0
+gurlal,7,Not Available,57.75
+gurlal,8,Available,57.75
+gurlal,9,Available,57.75
+asif,1,Available,170.0
+asif,2,Available,170.0
+asif,3,Not Available,63.75
+asif,4,Available,63.75
